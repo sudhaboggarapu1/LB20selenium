@@ -2,28 +2,24 @@
 <testng-results skipped="0" failed="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="27320" started-at="2020-04-11T16:01:21Z" finished-at="2020-04-11T16:01:48Z">
+  <suite name="Default suite" duration-ms="77940" started-at="2020-04-13T08:03:44Z" finished-at="2020-04-13T08:05:02Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="27320" started-at="2020-04-11T16:01:21Z" finished-at="2020-04-11T16:01:48Z">
-      <class name="com.training.sanity.tests.UserEdit">
-        <test-method status="PASS" signature="setUpBeforeClass()[pri:0, instance:com.training.sanity.tests.UserEdit@ea4a92b]" name="setUpBeforeClass" is-config="true" duration-ms="15" started-at="2020-04-11T21:31:21Z" finished-at="2020-04-11T21:31:21Z">
+    <test name="Default test" duration-ms="77940" started-at="2020-04-13T08:03:44Z" finished-at="2020-04-13T08:05:02Z">
+      <class name="com.training.sanity.tests.ClassTest">
+        <test-method status="PASS" signature="setUpBeforeClass()[pri:0, instance:com.training.sanity.tests.ClassTest@ea4a92b]" name="setUpBeforeClass" is-config="true" duration-ms="16" started-at="2020-04-13T13:33:44Z" finished-at="2020-04-13T13:33:44Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUpBeforeClass -->
-        <test-method status="PASS" signature="setUp()[pri:0, instance:com.training.sanity.tests.UserEdit@ea4a92b]" name="setUp" is-config="true" duration-ms="14307" started-at="2020-04-11T21:31:21Z" finished-at="2020-04-11T21:31:35Z">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.training.sanity.tests.ClassTest@ea4a92b]" name="setUp" is-config="true" duration-ms="16410" started-at="2020-04-13T13:33:44Z" finished-at="2020-04-13T13:34:01Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="AddClasses()[pri:0, instance:com.training.sanity.tests.UserEdit@ea4a92b]" name="AddClasses" duration-ms="11119" started-at="2020-04-11T21:31:35Z" finished-at="2020-04-11T21:31:46Z">
+        <test-method status="PASS" signature="AddClasses()[pri:0, instance:com.training.sanity.tests.ClassTest@ea4a92b]" name="AddClasses" duration-ms="61493" started-at="2020-04-13T13:34:01Z" finished-at="2020-04-13T13:35:02Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- AddClasses -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.training.sanity.tests.UserEdit@ea4a92b]" name="tearDown" is-config="true" duration-ms="1867" started-at="2020-04-11T21:31:46Z" finished-at="2020-04-11T21:31:48Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- tearDown -->
-      </class> <!-- com.training.sanity.tests.UserEdit -->
+      </class> <!-- com.training.sanity.tests.ClassTest -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
